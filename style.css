@@ -4,4 +4,10 @@
 
 h1 {
   color: blueviolet;
+  font-size: 30px
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400 px;
 }
